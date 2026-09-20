@@ -1,0 +1,8 @@
+transformers
+accelerate
+iterative-stratification
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
